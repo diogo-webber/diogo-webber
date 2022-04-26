@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador Diogo Webber">
 
 <br>
 
@@ -15,9 +15,9 @@
   💼 Ferramentas: <strong>Git e Github, Trello.</strong>
 </p>
 
-<br><br>
+<br>
 
-<p align="center">
+<p align="left">
   <a href="mailto:diogow03@gmail.com">
     <img
       align="center"
