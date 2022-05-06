@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Git e Github, Trello.</strong>
+  💼 Ferramentas: <strong>Git e Github, Trello, Docker.</strong>
 </p>
 
 <br>
